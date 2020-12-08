@@ -1,0 +1,38 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+.caption {
+    margin-left: 35%;
+}
+
+.para {
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+}
+
+.container {
+    width: 50%;
+    padding: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.center {
+    display: block;
+    margin-left: 25%;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text {
+    display: block;
+    margin-left: auto;
+    margin-right: 50%;
+    width: 50%;
+}
